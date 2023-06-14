@@ -181,7 +181,7 @@ For further learning, you can leverage the [Amazon Neptune Workbench](https://do
 
 Let's review the data model that we discussed earlier in this module:
 
-![image.png](attachment:image.png)
+![Graph 2](./images/graph2.png)
 
 The graph contains two types of nodes (or vertices) and two types of edges.  We can see the total number of each type of vertex and edge using the following queries.  Highlight each cell and click the Play button at the top of the Jupyter console (or click the play button next to the cell) to run the queries.
 
